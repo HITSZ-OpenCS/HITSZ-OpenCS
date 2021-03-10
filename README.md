@@ -6,7 +6,7 @@
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择Download即可。
 
-感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)……以及电脑前的您！
+感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[ailanxier](https://github.com/ailanxier)……以及电脑前的您！
 
 ## 前言
 
