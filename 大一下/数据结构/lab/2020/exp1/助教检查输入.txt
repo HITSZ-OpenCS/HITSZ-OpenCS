@@ -1,0 +1,133 @@
+
+一:建表输入
+1
+10
+1,190010010,83
+0,190010012,85
+1,190010020,86
+1,190010015,87
+1,190010023,88
+0,190010013,89
+0,190010022,90
+1,190010017,91
+1,190010033,92
+0,191151115,93
+
+输出:
+/*
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output  
+*/
+###################################
+输入：
+6
+输出
+/*
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output
+6
+Class 0:
+{Class:0, ID:191151115, Grade:93}->{Class:0, ID:190010022, Grade:90}->{Class:0, ID:190010013, Grade:89}->{Class:0, ID:190010012, Grade:85}
+
+Class 1:
+{Class:1, ID:190010033, Grade:92}->{Class:1, ID:190010017, Grade:91}->{Class:1, ID:190010023, Grade:88}->{Class:1, ID:190010015, Grade:87}->{Class:1, ID:190010020, Grade:86}->{Class:1, ID:190010010, Grade:83}
+
+###################################
+二:按照id搜索:
+
+2
+0,190010010
+输出
+/*
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output  
+2
+input the data format as: ClassID, StuID
+0,190010010
+the linklist has no such node as id=190010010
+###################################
+*/
+
+输入:
+2
+1,190010033 
+输出
+/*
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output  
+2
+input thedata format as: ClassID, StuID
+1,190010033                         
+{Class:1, ID:190010033, Grade:92}->
+###################################
+*/
+
+三:按照id删除:
+
+3
+0,190010009
+输出
+/*
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output
+3
+input the data format as: ClassID, StuID
+0,190010009
+the linklist has no such node as id=190010009
+###################################
+*/
+输入:
+3
+1,190010023 
+输出
+/*
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output
+3
+input the data format as: ClassID, StuID
+1,190010023
+the student id=190010023 is deleted
+###################################
+*/
+
+四:检查当前链表情况:
+输入:6
+输出:
+/*
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output  
+6
+Class 0:
+{Class:0, ID:191151115, Grade:93}->{Class:0, ID:190010022, Grade:90}->{Class:0, ID:190010013, Grade:89}->{Class:0, ID:190010012, Grade:85}
+
+Class 1:
+{Class:1, ID:190010033, Grade:92}->{Class:1, ID:190010017, Grade:91}->{Class:1, ID:190010015, Grade:87}->{Class:1, ID:190010020, Grade:86}->{Class:1, ID:190010010, Grade:83}
+
+###################################
+*/
+
+
+
+五;课下部分
+输入:
+4
+检查输出:
+
+/*the output of merge
+
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output
+4
+{Class:0, ID:191151115, Grade:93}->{Class:1, ID:190010033, Grade:92}->{Class:1, ID:190010017, Grade:91}->{Class:0, ID:190010022, Grade:90}->{Class:0, ID:190010013, Grade:89}->{Class:1, ID:190010015, Grade:87}->{Class:1, ID:190010020, Grade:86}->{Class:0, ID:190010012, Grade:85}->{Class:1, ID:190010010, Grade:83}
+
+
+*/
+输入：
+5
+输出：
+###################################
+1.insert 2.search by studentID 3.delete by studentID 4.merge 5. reverse 6.output
+5
+{Class:1, ID:190010010, Grade:83}->{Class:0, ID:190010012, Grade:85}->{Class:1, ID:190010020, Grade:86}->{Class:1, ID:190010015, Grade:87}->{Class:0, ID:190010013, Grade:89}->{Class:0, ID:190010022, Grade:90}->{Class:1, ID:190010017, Grade:91}->{Class:1, ID:190010033, Grade:92}->{Class:0, ID:191151115, Grade:93}
+
+
