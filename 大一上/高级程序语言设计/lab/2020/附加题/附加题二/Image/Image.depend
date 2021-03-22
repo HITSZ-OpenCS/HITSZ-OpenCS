@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1508035657 source:e:\documents\myproject\codeblocks\image\cv.c
+	"cv.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1507997017 e:\documents\myproject\codeblocks\image\cv.h
+	<stdbool.h>
+
+1508825162 source:e:\documents\myproject\codeblocks\image\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cv.h"
+
+1507990040 source:e:\documents\myproject\codeblocks\image\convolution.c
+
+1507990527 e:\documents\myproject\codeblocks\image\convolution.h
+
