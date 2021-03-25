@@ -2,8 +2,6 @@
 
 受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
 
-由于本仓库未启用`git-lfs`，因此请不要上传单个超过100M的文件，否则Commit无效。
-
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择Download即可。
 
 感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[chh13502](https://github.com/chh13502)、[xyfJASON](https://github.com/xyfJASON)、[ailanxier](https://github.com/ailanxier)、[linners-ls](https://github.com/linners-ls)、[Yiwen-Ding](https://github.com/Yiwen-Ding)、[SocialistDalao](https://github.com/SocialistDalao)、[Leundo](https://github.com/Leundo)、[WoodenStone](https://github.com/WoodenStone)、[vierundsechzig](https://github.com/vierundsechzig)……以及电脑前的您！
@@ -29,10 +27,10 @@
 本项目至今为止收录了以下内容：
 
 - 课程攻略
-- 电子版教材&课件
-- 实验指导书&实验代码
-- 平时作业&作业资料
-- 历年试卷&笔记
+- 电子版教材 & 课件
+- 实验指导书 & 实验资料
+- 平时作业题 & 作业资料
+- 历年试卷 & 笔记
 - 竞赛攻略
 
 等等。目前项目已覆盖大多数计科的专业课程。
@@ -53,7 +51,7 @@
 
 ## 贡献
 
-**欢迎贡献！**
+**欢迎贡献！欢迎贡献！欢迎贡献！**
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
