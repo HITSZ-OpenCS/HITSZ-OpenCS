@@ -4,7 +4,7 @@
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择Download即可。
 
-感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[chh13502](https://github.com/chh13502)、[xyfJASON](https://github.com/xyfJASON)、[ailanxier](https://github.com/ailanxier)、[linners-ls](https://github.com/linners-ls)、[Yiwen-Ding](https://github.com/Yiwen-Ding)、[SocialistDalao](https://github.com/SocialistDalao)、[Leundo](https://github.com/Leundo)、[WoodenStone](https://github.com/WoodenStone)、[vierundsechzig](https://github.com/vierundsechzig)……以及电脑前的您！
+感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[chh13502](https://github.com/chh13502)、[xyfJASON](https://github.com/xyfJASON)、[ailanxier](https://github.com/ailanxier)、[linners-ls](https://github.com/linners-ls)、[Yiwen-Ding](https://github.com/Yiwen-Ding)、[SocialistDalao](https://github.com/SocialistDalao)、[Leundo](https://github.com/Leundo)、[WoodenStone](https://github.com/WoodenStone)、[vierundsechzig](https://github.com/vierundsechzig)、[SoraShu](https://github.com/SoraShu)……以及电脑前的您！
 
 ## 前言
 
