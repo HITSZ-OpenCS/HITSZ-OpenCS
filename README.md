@@ -6,7 +6,7 @@
 
 本项目已新增[Gitee镜像仓库](https://gitee.com/hewei2001/HITSZ-CS-GEEK)，网速受限的同学可前往下载，但不保证Gitee上的仓库版本与Github的同步。如要同步最新版，可以自己注册Gitee账号后从Github拉取本仓库，再下载相应文件。
 
-感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[chh13502](https://github.com/chh13502)、[xyfJASON](https://github.com/xyfJASON)、[ailanxier](https://github.com/ailanxier)、[linners-ls](https://github.com/linners-ls)、[Yiwen-Ding](https://github.com/Yiwen-Ding)、[SocialistDalao](https://github.com/SocialistDalao)、[Leundo](https://github.com/Leundo)、[WoodenStone](https://github.com/WoodenStone)、[vierundsechzig](https://github.com/vierundsechzig)、[SoraShu](https://github.com/SoraShu)、[CandyOre](https://github.com/CandyOre)、[lizbaka](https://github.com/lizbaka)、[Kethers](https://github.com/Kethers)、[L-M-Sherlock](https://github.com/L-M-Sherlock)、[bugstop](https://github.com/bugstop)……以及电脑前的您！
+感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[chh13502](https://github.com/chh13502)、[xyfJASON](https://github.com/xyfJASON)、[ailanxier](https://github.com/ailanxier)、[linners-ls](https://github.com/linners-ls)、[Yiwen-Ding](https://github.com/Yiwen-Ding)、[SocialistDalao](https://github.com/SocialistDalao)、[Leundo](https://github.com/Leundo)、[WoodenStone](https://github.com/WoodenStone)、[vierundsechzig](https://github.com/vierundsechzig)、[SoraShu](https://github.com/SoraShu)、[CandyOre](https://github.com/CandyOre)、[lizbaka](https://github.com/lizbaka)、[Kethers](https://github.com/Kethers)、[L-M-Sherlock](https://github.com/L-M-Sherlock)、[bugstop](https://github.com/bugstop)、[FinCreWorld](https://github.com/FinCreWorld)、[C6H5-NO2](https://github.com/C6H5-NO2)……以及电脑前的您！
 
 ## 前言
 
@@ -67,6 +67,6 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 由贡献者编写部分的许可如下：
 
-[(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+[CC-BY-NC-SA：署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 其他部分的版权归属于其各自的作者。资料仅供参考，请自己判断其适用性。
