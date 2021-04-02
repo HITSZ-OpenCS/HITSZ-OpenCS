@@ -1,0 +1,42 @@
+测试样例一：
+Create Tree1 in PreOrder
+输入：
+DCB##A##E##
+
+start task (2) Input the postOrder and inOrder Sequence ,Then build the tree
+please input the postorder sequence
+输入：
+BACED
+please input the inorder sequence
+输入：
+EBADC
+
+----------------------------我是分割线--------------------------------
+
+测试样例二：
+Create Tree1 in PreOrder
+输入：
+ABCD##E###FGH##I##J##
+
+start task (2) Input the postOrder and inOrder Sequence ,Then build the tree
+please input the postorder sequence
+输入：
+DECBHIGJFA
+please input the inorder sequence
+输入：
+DCEBAHGIFJ
+
+----------------------------我是分割线--------------------------------
+
+测试样例三：
+Create Tree1 in PreOrder
+输入：
+ABCD##E###FGH##I##J##
+
+start task (2) Input the postOrder and inOrder Sequence ,Then build the tree
+please input the postorder sequence
+输入：
+4532897061
+please input the inorder sequence
+输入：
+4352187960
