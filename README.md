@@ -4,9 +4,11 @@
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 Download 即可。或者安装 Chrome 浏览器的插件 [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)，选择批量下载。
 
-本项目已新增 [Gitee 镜像仓库](https://gitee.com/hewei2001/HITSZ-CS-GEEK)，网速受限的同学可前往下载，但不保证 Gitee 上的仓库版本与 Github 的同步。如要同步最新版，可以自己注册 Gitee 账号后从 Github 拉取本仓库，再下载相应文件。
+本项目已新增 [Gitee 镜像仓库](https://gitee.com/hewei2001/HITSZ-CS-GEEK)，网速受限的同学可前往下载，但不保证 Gitee 上的仓库版本与 GitHub 的同步。如要同步最新版，可以自己注册 Gitee 账号后从 Github 拉取本仓库，再下载相应文件。
 
-感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[chh13502](https://github.com/chh13502)、[xyfJASON](https://github.com/xyfJASON)、[ailanxier](https://github.com/ailanxier)、[linners-ls](https://github.com/linners-ls)、[Yiwen-Ding](https://github.com/Yiwen-Ding)、[SocialistDalao](https://github.com/SocialistDalao)、[Leundo](https://github.com/Leundo)、[WoodenStone](https://github.com/WoodenStone)、[vierundsechzig](https://github.com/vierundsechzig)、[SoraShu](https://github.com/SoraShu)、[CandyOre](https://github.com/CandyOre)、[lizbaka](https://github.com/lizbaka)、[Kethers](https://github.com/Kethers)、[L-M-Sherlock](https://github.com/L-M-Sherlock)、[bugstop](https://github.com/bugstop)、[FinCreWorld](https://github.com/FinCreWorld)、[C6H5-NO2](https://github.com/C6H5-NO2)、[DarrenYing](https://github.com/DarrenYing)……以及电脑前的您！
+感谢对本项目贡献的同学：第二届院学生会学术部全体成员、[hewei2001](https://github.com/hewei2001)、[chh13502](https://github.com/chh13502)、[xyfJASON](https://github.com/xyfJASON)、[ailanxier](https://github.com/ailanxier)、[linners-ls](https://github.com/linners-ls)、[Yiwen-Ding](https://github.com/Yiwen-Ding)、[SocialistDalao](https://github.com/SocialistDalao)、[Leundo](https://github.com/Leundo)、[WoodenStone](https://github.com/WoodenStone)、[vierundsechzig](https://github.com/vierundsechzig)、[SoraShu](https://github.com/SoraShu)、[CandyOre](https://github.com/CandyOre)、[lizbaka](https://github.com/lizbaka)、[Kethers](https://github.com/Kethers)、[L-M-Sherlock](https://github.com/L-M-Sherlock)、[bugstop](https://github.com/bugstop)、[FinCreWorld](https://github.com/FinCreWorld)、[C6H5-NO2](https://github.com/C6H5-NO2)、[DarrenYing](https://github.com/DarrenYing)、[NanGuoBean](https://github.com/NanGuoBean)、[LAGRANGIST](https://github.com/LAGRANGIST)……以及电脑前的您！
+
+特别鸣谢 [WuuTang项目](WuuTang项目.md) 及其发起人 [Leundo](https://github.com/Leundo) 对仓库中试卷资源的支持！
 
 ## 前言
 
