@@ -2,7 +2,7 @@
 
 WuuTang项目由Leundo发起，致力于记录、整理、分发哈工大深圳计科历年期末试卷，包含公开的和非公开的两部分资料。公开资料面向所有人。非公开的资料面向项目贡献者。
 
-请在Github「[HITSZ-CS-GEEK](https://github.com/hewei2001/HITSZ-CS-GEEK)」项目中查找公开资料。最新WuuTang项目政策请访问「[记录、整理、分发](https://www.lzzet.com/article/2) 」。本页面最新更新于`2021-08-06`。
+请在Github「[HITSZ-CS-GEEK](https://github.com/hewei2001/HITSZ-CS-GEEK)」项目中查找公开资料。最新WuuTang项目政策请访问「[记录、整理、分发](https://www.lzzet.com/article/2) 」。本页面最新更新于`2021-08-22`。
 
 
 
@@ -41,6 +41,7 @@ WuuTang项目由Leundo发起，致力于记录、整理、分发哈工大深圳�
 
 1. 2018级算法设计与分析(大二秋季)
 2. 2018级计算机组成原理(大二春季)
+3. 2017级编译原理，威海(大三春季)
 
 
 
