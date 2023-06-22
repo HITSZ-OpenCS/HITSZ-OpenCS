@@ -42,6 +42,10 @@
 
 无考试。
 
+### 参考仓库
+
+https://github.com/xuanhao44/HITSZ-miniRVCPU 内容十分详细，比较有参考价值。
+
 ### Tips
 
 好好听课！
